@@ -1,5 +1,5 @@
 {
-  "best_metric": 0.9991666666666666,
+  "best_metric": 0.9954166666666666,
   "best_model_checkpoint": "./banglabert_results\\checkpoint-1200",
   "epoch": 1.0,
   "global_step": 1200,
@@ -10,19 +10,19 @@
     {
       "epoch": 1.0,
       "learning_rate": 3.3333333333333335e-05,
-      "loss": 0.0571,
+      "loss": 0.0569,
       "step": 1200
     },
     {
       "epoch": 1.0,
-      "eval_accuracy": 0.9991666666666666,
-      "eval_f1": 0.9991673605328892,
-      "eval_loss": 0.004435913637280464,
-      "eval_precision": 0.9983361064891847,
+      "eval_accuracy": 0.9954166666666666,
+      "eval_f1": 0.9954375777685608,
+      "eval_loss": 0.02226274088025093,
+      "eval_precision": 0.990916597853014,
       "eval_recall": 1.0,
-      "eval_runtime": 14.5716,
-      "eval_samples_per_second": 164.704,
-      "eval_steps_per_second": 10.294,
+      "eval_runtime": 14.0827,
+      "eval_samples_per_second": 170.422,
+      "eval_steps_per_second": 10.651,
       "step": 1200
     }
   ],
