@@ -1,10 +1,10 @@
 {
-  "_name_or_path": "sagorsarker/bangla-bert-base",
   "architectures": [
     "BertForSequenceClassification"
   ],
   "attention_probs_dropout_prob": 0.1,
   "classifier_dropout": null,
+  "dtype": "float32",
   "hidden_act": "gelu",
   "hidden_dropout_prob": 0.1,
   "hidden_size": 768,
@@ -18,8 +18,7 @@
   "pad_token_id": 0,
   "position_embedding_type": "absolute",
   "problem_type": "single_label_classification",
-  "torch_dtype": "float32",
-  "transformers_version": "4.28.1",
+  "transformers_version": "4.56.2",
   "type_vocab_size": 2,
   "use_cache": true,
   "vocab_size": 102025
